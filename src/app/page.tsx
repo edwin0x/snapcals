@@ -44,7 +44,7 @@ import {
   Linkedin,
 } from "lucide-react";
 
-export default function CalqCalorieCalculator() {
+export default function CalidoscopeCalorieCalculator() {
   const [formData, setFormData] = useState({
     age: "",
     gender: "male",
@@ -198,7 +198,7 @@ export default function CalqCalorieCalculator() {
                     <Activity className="h-5 w-5 text-black font-bold" />
                   </div>
                   <span className="text-xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
-                    Calq
+                    Calidoscope
                   </span>
                 </div>
               </div>
@@ -331,9 +331,9 @@ export default function CalqCalorieCalculator() {
             </div>
             <h1 className="text-5xl font-bold">
               <span className="bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent">
-                Precision Calorie
+                Calorie
               </span>
-              <br />
+              &nbsp;
               <span className="bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
                 Calculator
               </span>
@@ -827,7 +827,7 @@ export default function CalqCalorieCalculator() {
                   <Activity className="h-5 w-5 text-black font-bold" />
                 </div>
                 <span className="text-xl font-bold bg-gradient-to-r from-emerald-400 to-cyan-400 bg-clip-text text-transparent">
-                  Calq
+                  Calidoscope
                 </span>
               </div>
               <p className="text-gray-400 text-sm max-w-xs">
@@ -1013,7 +1013,7 @@ export default function CalqCalorieCalculator() {
 
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-sm text-gray-400">
-              © 2025 Calq, Inc. All rights reserved.
+              © 2025 Calidoscope, Inc. All rights reserved.
             </div>
             <div className="flex space-x-6 text-sm text-gray-400">
               <a href="#" className="hover:text-emerald-400 transition-colors">
